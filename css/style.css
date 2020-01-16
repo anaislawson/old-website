@@ -1,5 +1,13 @@
 img{
-	height:300px;
-	align-content: right;
-	background-size: cover;
+	height:100px;
+	width:80px;
+	justify-content: right;
+}
+
+h1{
+	color: ;
+}
+
+.font-size1{
+	font-size: 30px;
 }
