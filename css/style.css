@@ -1,4 +1,5 @@
 img{
 	height:300px;
-	align-content: center
+	align-content: right;
+	background-size: cover;
 }
