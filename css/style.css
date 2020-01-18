@@ -234,3 +234,16 @@ p{
     display: block;
   }
 }
+
+.img-size1{
+	height:300px;
+	text-align: center;
+}
+
+.font-size2{
+	font-size: 20px;
+}
+
+.font-size3{
+	font-size: 30px;
+}
